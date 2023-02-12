@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
-<style>
-    body{
-        background-image:linear-gradient(to right,#85FFBD,#FFFB7D);
-        background-attachment:fixed; 
-    }
-</style>
-
-</head>
 <body>
 <center>
     <hr style="height:2px;border:none;color:#333;background-color:#333;" />
